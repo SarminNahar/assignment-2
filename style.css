@@ -53,6 +53,7 @@ h1, h3, h5{
 }
 .icon{
     text-align: center;
-    padding:2em;
+    padding-bottom: 3em;
     justify-content: space-between;
+    line-height: 5px;
 }
