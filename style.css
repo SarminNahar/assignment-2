@@ -1,10 +1,14 @@
 .bg-color{
     background-color:#FFFBF0;
 }
+.bg-color img{
+  width:30%;
+}
 .nav-bg{
     background-color:#FFFBF0;
-
+    height: 50px;
 }
+
 .button img{
     height:30px;
 }
